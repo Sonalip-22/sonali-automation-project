@@ -1,0 +1,7 @@
+EC2 Instance Name: sonalidemo1
+EC2 Instance ID: i-0d10a92aa529c9e73
+Public IP: 65.2.188.222
+Security Group ID: sg-02e20427a41b1d171
+Key Pair: sonali-auto-key
+S3 Bucket: sonali-auto-bucket-1763724808
+AWS Region: ap-south-1
